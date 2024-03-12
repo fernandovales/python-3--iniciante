@@ -1,0 +1,5 @@
+nome = str(input('digite o nome completo: ')).strip()
+div = nome.split()
+print(div)
+print('primeiro nome:{}'.format(div[0]))
+print('ultimo nome: {}'.format(div[nome.count(' ')]))
