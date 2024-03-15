@@ -1,3 +1,6 @@
+
+
+
 nome = str(input('digite o nome completo: ')).strip()
 div = nome.split()
 print(div)

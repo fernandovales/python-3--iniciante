@@ -1,3 +1,6 @@
+
+
+
 vel = float(input('Qual a velocidade: '))
 if vel > 80.0:
     print('voce foi multado')

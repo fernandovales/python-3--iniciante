@@ -1,3 +1,6 @@
+
+
+
 import random
 from time import sleep
 print('\033[1;34m{:=^30}\033[m '.format('JOGO: ADVINHE O NUMERO!'))

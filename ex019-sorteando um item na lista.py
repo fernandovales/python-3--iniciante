@@ -1,3 +1,5 @@
+
+
 from random import  choice
 nome1 = input('primeiro nome: ')
 nome2 = input('segundo nome: ')
