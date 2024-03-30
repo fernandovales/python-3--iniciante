@@ -1,3 +1,8 @@
+'''
+Desenvolva um programa que leia o comprimento de três retas
+e diga ao usuário se elas podem ou não formar um triângulo
+'''
+
 r1 = float(input('digite o comprimento de r1: '))
 r2 = float(input('digite o comprimento de r2: '))
 r3 = float(input('digite o comprimento de r3: '))

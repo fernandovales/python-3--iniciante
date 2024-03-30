@@ -1,3 +1,4 @@
+'''Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.'''
 metro = float(input('valor em metros [M]: '))
 km = metro/1000
 hm = metro/100

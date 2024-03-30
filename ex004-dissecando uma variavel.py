@@ -1,3 +1,6 @@
+'''Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
+e todas as informações possíveis sobre ele'''
+
 texto = (input('digite algo : '))
 
 print(f'Está capitalizado?{texto.istitle()}')

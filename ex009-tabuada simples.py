@@ -1,3 +1,4 @@
+'''Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.'''
 print('=-'*20)
 numero = int(input('informe um numero: '))
 print('=-'*20)

@@ -1,3 +1,8 @@
+'''
+Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+'''
+
+
 peso = float(input('digite o peso da 1ª pessoa: '))
 menor = peso
 maior = peso

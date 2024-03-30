@@ -1,5 +1,8 @@
-'''
-Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
-'''
+def responder_usuario(nome):
+    mensagem = (f'seja bem vindo {nome}')
+    return mensagem
+
+
 nome = input('digite seu nome: ')
-print(f'Seja bem vindo, {nome}: ')
+saudacao = responder_usuario(nome)  
+print(saudacao)

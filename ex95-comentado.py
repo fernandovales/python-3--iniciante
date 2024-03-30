@@ -1,3 +1,7 @@
+'''
+Aprimore o desafio 93 para que ele funcione com vários jogadores,
+incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+'''
 time = list()  # Lista vazia para armazenar os dados dos jogadores
 jogador = {}   # Dicionário vazio para armazenar os dados de um jogador por vez
 partidas = []  # Lista vazia para armazenar o número de gols em cada partida
