@@ -1,5 +1,12 @@
 '''Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.'''
+def calcular_media(n1,n2):
+    media = (n1+ n2) / 2
+    return media
+    
+    
+    
 nota1 = float(input('nota 1 : '))
 nota2 = float(input('nota 2 : '))
-media = (nota1 + nota2) / 2
-print('a media foi {:.1f}'.format(media))
+print(f'media: {calcular_media(nota1,nota2):.2f}')
+
+
