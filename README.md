@@ -1,2 +1,2 @@
 # python-3--iniciante
-Este repositório é uma jornada de aprendizado em Python de um estudante iniciante. Aqui, você encontrará projetos simples, exercícios e pequenos scripts conforme mergulho mais fundo no mundo da programação Python. Desde os conceitos básicos até desafios mais avançados, cada commit representa meu progresso nessa emocionante jornada de aprendizado.
+Este repositório representa o início da minha jornada de aprendizado em Python, contendo projetos simples, exercícios e scripts à medida que mergulho mais fundo na programação. Cada commit representa meu progresso nessa jornada de aprendizado.
